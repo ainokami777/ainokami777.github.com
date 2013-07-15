@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ainokami777' Blog on Github]]></title>
+  <title><![CDATA[ainokami777' blog on Github]]></title>
   <link href="http://ainokami777.github.io/atom.xml" rel="self"/>
   <link href="http://ainokami777.github.io/"/>
-  <updated>2013-07-16T02:19:11+09:00</updated>
+  <updated>2013-07-16T02:36:32+09:00</updated>
   <id>http://ainokami777.github.io/</id>
   <author>
     <name><![CDATA[ainokami777]]></name>
-    
+    <email><![CDATA[ainokami777+github@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
