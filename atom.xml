@@ -4,7 +4,7 @@
   <title><![CDATA[ainokami777' Blog on Github]]></title>
   <link href="http://ainokami777.github.io/atom.xml" rel="self"/>
   <link href="http://ainokami777.github.io/"/>
-  <updated>2013-07-16T01:44:11+09:00</updated>
+  <updated>2013-07-16T02:19:11+09:00</updated>
   <id>http://ainokami777.github.io/</id>
   <author>
     <name><![CDATA[ainokami777]]></name>
@@ -14,11 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Github:PagesとOctopressによるブログ構築]]></title>
+    <title type="html"><![CDATA[Github:PagesとOctopressでブログ構築]]></title>
     <link href="http://ainokami777.github.io/blog/2013/07/16/setup-github-blog/"/>
     <updated>2013-07-16T00:15:00+09:00</updated>
     <id>http://ainokami777.github.io/blog/2013/07/16/setup-github-blog</id>
-    <content type="html"><![CDATA[<p>ブログ開設しました。</p>
+    <content type="html"><![CDATA[<p>ブログを開設しました。</p>
+
+<!-- more -->
+
+
+<p>流行に大分遅れて、Github PagesとOctopressを使用してブログを構築しました。
+今後は、気になった技術に対して記事をアップロードしていく予定です。</p>
 ]]></content>
   </entry>
   
